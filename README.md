@@ -1,5 +1,5 @@
 
-**Scalable ServicesAssignment-SESAP ZG583**
+**Scalable ServicesAssignment-SESAP ZG583**
 
 
 1) Build, deploy, and load test a static web page hosted on GitHub Pages.
